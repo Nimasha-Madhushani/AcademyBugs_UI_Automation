@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name=" D:/L4S1/ITQA/Group Assignment/selinium kuppi/new194099A/src">
+
+        <classes>
+            <class name="test.ProductTest" />
+            <class name="test.CartTest" />
+            <class name="test.StoreTest"></class>
+            <class name="test.ManufacturerTest"></class>
+            <class name="test.TwitterTest"></class>
+        </classes>
+    </test>
+</suite>
